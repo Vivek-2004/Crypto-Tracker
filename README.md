@@ -1,6 +1,5 @@
 # Crypto Tracker
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Android](https://img.shields.io/badge/platform-Android-green.svg)](https://developer.android.com/)
 [![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-UI-orange)](https://developer.android.com/jetpack/compose)
 
