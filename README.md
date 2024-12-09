@@ -3,14 +3,14 @@
 [![Android](https://img.shields.io/badge/platform-Android-green.svg)](https://developer.android.com/)
 [![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-UI-orange)](https://developer.android.com/jetpack/compose)
 
-Crypto Tracker is an Android application designed to provide users with real-time cryptocurrency data, including prices, market trends, and detailed information for their favorite coins. Built with modern tools like Kotlin and Jetpack Compose, this app features an elegant UI and integrates APIs for dynamic data.
+Crypto Tracker is an Android application designed to provide users with real-time Cryptocurrency data, including prices, market trends, and detailed information for their favorite coins. Built with modern tools like Kotlin and Jetpack Compose, this app features an elegant UI and integrates APIs for dynamic data.
 
 ## Features
 
-- 📈 **Real-Time Data**: Displays live cryptocurrency prices and market details.
+- 📈 **Real-Time Data**: Displays live Cryptocurrency prices and market details.
 - 🎨 **Custom Fonts**: Styled with custom `.ttf` fonts for a unique look and feel.
-- 🖼️ **Elegant UI**: Built with Material 3 Design Principles.
-- 🚀 **Modern Tech Stack**: Kotlin, Jetpack Compose, Retrofit, Coil, and MVVM architecture.
+- 🖼️ **Elegant UI**: Built with Material3 Design Principles.
+- 🚀 **Modern Tech Stack**: Kotlin, Jetpack Compose, Retrofit, Coil, and MVI architecture.
 
 ## Screenshots
 
@@ -26,12 +26,12 @@ Crypto Tracker is an Android application designed to provide users with real-tim
 - **UI Framework**: Jetpack Compose (Material 3)
 - **Networking**: OKHttp for API integration
 - **Image Loading**: Coil
-- **Architecture**: MVVM (Model-View-ViewModel)
+- **Architecture**: MVI (Model-View-Intent)
 - **Fonts**: Custom `.ttf` integration
 
 ## API Integration
 
-The app utilizes APIs to fetch real-time cryptocurrency data. Ensure you have your API keys set up in the project to enable data fetching.
+The app utilizes APIs to fetch real-time cryptocurrency data.
 
 ## Installation
 
