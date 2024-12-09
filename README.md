@@ -14,7 +14,11 @@ Crypto Tracker is an Android application designed to provide users with real-tim
 
 ## Screenshots
 
-> (Add screenshots here to showcase the app's interface.)
+![Screen1](https://github.com/user-attachments/assets/78e34e15-84ce-4810-ae0b-86adce7a74ab)
+
+![Screen2](https://github.com/user-attachments/assets/f50f03c6-ce9f-4dce-b078-614c03a1abf9)
+
+
 
 ## Tech Stack
 
