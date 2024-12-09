@@ -10,7 +10,7 @@ Crypto Tracker is an Android application designed to provide users with real-tim
 - 📈 **Real-Time Data**: Displays live Cryptocurrency prices and market details.
 - 🎨 **Custom Fonts**: Styled with custom `.ttf` fonts for a unique look and feel.
 - 🖼️ **Elegant UI**: Built with Material3 Design Principles.
-- 🚀 **Modern Tech Stack**: Kotlin, Jetpack Compose, Retrofit, Coil, and MVI architecture.
+- 🚀 **Modern Tech Stack**: Kotlin, Jetpack Compose, Retrofit, and MVI architecture.
 
 ## Screenshots
 
@@ -25,7 +25,6 @@ Crypto Tracker is an Android application designed to provide users with real-tim
 - **Language**: Kotlin
 - **UI Framework**: Jetpack Compose (Material 3)
 - **Networking**: OKHttp for API integration
-- **Image Loading**: Coil
 - **Architecture**: MVI (Model-View-Intent)
 - **Fonts**: Custom `.ttf` integration
 
